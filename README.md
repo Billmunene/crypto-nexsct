@@ -12,7 +12,7 @@
 
 </div>
 
-<h5 align="center"><a href="https://nexsct-crypto.miladsdgh.ir/" >Demo</a></h5>
+<h5 align="center"><a href="https://crypto-nexsct.vercel.app/" >Demo</a></h5>
 
 ---
 
